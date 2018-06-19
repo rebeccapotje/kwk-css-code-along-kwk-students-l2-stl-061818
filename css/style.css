@@ -1,1 +1,21 @@
 /* add CSS class and element and selectors here */
+body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+    
+    .myClass {
+      background-color: gray;
+      color: blue
+    }
+    
+    .funstuff {
+      background-color: indigo;
+      color: gray;
+      font-size: 50pt;
+    }
+   
+   
+   #rebeccasclass {
+     color:pink;
+   } 
